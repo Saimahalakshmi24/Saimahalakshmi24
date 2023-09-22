@@ -1,0 +1,1 @@
+Run anywhere in the world with Atlas. Deploy a database in over 90 regions on AWS, Azure, and Google Cloud - and expand to be global, multi-region, or multi-cloud when you need it. Pin data to regions for strict compliance and ultra-low latency.
